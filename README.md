@@ -18,10 +18,14 @@ Again an intriguing question! This idea may seem generic but the significance of
 
 >What could we have done more or different ‼️ 
 
-With the time constraints we were given , we worked on every solution we could think off and i am really happy with that, " you know there is a 'but' coming !" but seeing our project from a different angle ,i think these are the things i would do differently <img width="528" height="875" alt="f1" src="https://github.com/user-attachments/assets/fe39add0-061e-4d92-b358-dfebd148eebd" />
-<img width="1069" height="852" alt="ag1" src="https://github.com/user-attachments/assets/ec8032d1-e1db-4854-b578-5c44e63c95d0" />
+With the time constraints we were given , we worked on every solution we could think off and i am really happy with that, " you know there is a 'but' coming !" but seeing our project from a different angle ,i think these are the things i would do differently
+
 
 1> Increase the security verification by adding mobile/email verification.
 2>Put some more variation in the customer response dataset.
 3>Provide address verification after a replacement request and maybe a new address form as well.
 I think these are the things that could have increased the appeal of our agent even more. 
+
+<img width="1069" height="852" alt="ag1" src="https://github.com/user-attachments/assets/ec8032d1-e1db-4854-b578-5c44e63c95d0" />
+
+ <img width="528" height="875" alt="f1" src="https://github.com/user-attachments/assets/fe39add0-061e-4d92-b358-dfebd148eebd" />
